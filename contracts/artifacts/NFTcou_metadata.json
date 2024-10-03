@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.27+commit.40a35a09"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Counter.sol": "NFTcou"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Counter.sol": {
+			"keccak256": "0xf02ad85e310d10c7630e758cbdd1d5df95657d00b009f1bebb21f001535ef55a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://95bb2ec2ba61857f0f59244ded5dfd6551d72315ca6fe2688bf526daaa4fb7b2",
+				"dweb:/ipfs/QmQ7382QmMu4uWsyTDXNPWxJMMb3XeDjVDZNPNmgApWTVM"
+			]
+		}
+	},
+	"version": 1
+}
